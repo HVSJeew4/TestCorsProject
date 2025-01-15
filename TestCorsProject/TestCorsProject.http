@@ -1,0 +1,6 @@
+@TestCorsProject_HostAddress = http://localhost:5238
+
+GET {{TestCorsProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
